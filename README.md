@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pichnow
-- 👀 I’m interested in the Digital word
+- 👀 I’m interested in the Digital wordl.
 - 🌱 I’m currently learning about programming languages in my institute.
 - 💞️ I’m looking to collaborate on projects linked to web programming.
 - 📫 How to reach me about... my instagram!
